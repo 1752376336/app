@@ -1,0 +1,22 @@
+#hades.swagger.enabled=true
+#hades.swagger.title=Module API
+#hades.swagger.description=Hades Manage Platform Module
+#hades.swagger.version=1.0.RELEASE
+#hades.swagger.base-path=/api/**
+#hades.swagger.contact.name=MrG
+#hades.swagger.contact.url=http://www.mrg.com
+#hades.swagger.contact.email=alva_alva@qq.com
+#hades.swagger.v2.path=/swagger-doc/v2/api-docs
+app:
+  swagger:
+    enabled: true
+    title: Module API
+    description: app Manage Platform Module
+    version: 0.0.1-SNAPSHOT
+    contact:
+      base-path: /api/**
+      name: MrG
+      url: http://www.mrg.com
+      email: alva_alva@qq.com
+    v2:
+      path: /swagger-doc/v2/api-docs
