@@ -1,0 +1,13 @@
+app:
+  swagger:
+    enabled: true
+    title: Module API
+    description: app Manage Platform Module
+    version: 0.0.1-SNAPSHOT
+    base-path: /api/**
+    contact:
+      name: MrG
+      url: http://www.mrg.com
+      email: alva_alva@qq.com
+    v2:
+      path: /swagger-doc/v2/api-docs
